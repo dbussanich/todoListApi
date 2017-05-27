@@ -1,0 +1,30 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "A test to do list service",
+  "main": "server.js",
+  "scripts": {
+    "test": "Error: No test available.",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbussanich/todoListApi.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Tutorial"
+  ],
+  "author": "Daniel Bussanich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbussanich/todoListApi/issues"
+  },
+  "homepage": "https://github.com/dbussanich/todoListApi#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  }
+}
